@@ -64,7 +64,6 @@ SPI is a synchronous serial communication protocol used for high-speed data tran
 - Full Duplex Communication
 - Loopback Mode
 - CPOL/CPHA Mode Verification
-- Baud Rate Verification
 
 ## Conclusion
 
